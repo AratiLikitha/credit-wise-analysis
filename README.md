@@ -21,5 +21,11 @@ Note: Dataset not included in repo, download from Kaggle link above
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-Learn, Anaconda, Jupyter Notebook
 
+## How to Run
+1. Download dataset from here: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
+2. Place loan_approval_data.csv in same folder as notebook
+3. Install requirements: `pip install pandas scikit-learn matplotlib seaborn`
+4. Run `creditwise_loan_prediction.ipynb` in Jupyter Notebook or VS Code
+
 ## Author
 Arati Likitha

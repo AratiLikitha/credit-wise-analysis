@@ -3,7 +3,9 @@
 Predicts loan approval status using customer data.
 
 ## Dataset
-Loan data with income, credit history, loan amount, etc.
+Kaggle - Loan Prediction Problem Dataset (614 applications)
+Link: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
+Note: Dataset not included in repo, download from Kaggle link above
 
 ## Models Used
 - KNN
